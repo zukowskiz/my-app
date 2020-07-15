@@ -1,8 +1,8 @@
 {
-  "name": "my-app",
+  "homepage": "http://zukowskiz.github.io/portfolio",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://zukowskiz.github.io/my-app",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
@@ -10,8 +10,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-image-gallery": "^1.0.7",
-    "react-scripts": "3.4.1",
-    "yarn": "^1.22.4"
+    "react-scripts": "3.4.1"
   },
   "scripts": {
     "predeploy": "npm run build",
