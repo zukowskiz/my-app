@@ -5,8 +5,8 @@ import ImageGallery from 'react-image-gallery';
 
 const images = [
   {
-    original: './images/pat4.jpg',
-    thumbnail: '/images/pat4.jpg',
+    original: 'pat1.jpg',
+    thumbnail: 'pat1.jpg',
     
   },
   {
