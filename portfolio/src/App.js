@@ -5,18 +5,46 @@ import ImageGallery from 'react-image-gallery';
 
 const images = [
   {
-    original: 'pat1.jpg',
-    thumbnail: 'pat1.jpg',
+    original: 'https://raw.githubusercontent.com/zukowskiz/portfolio/gh-pages/pat1.jpg',
+    thumbnail: 'https://raw.githubusercontent.com/zukowskiz/portfolio/gh-pages/pat1.jpg',
     
   },
   {
-    original: 'https://picsum.photos/id/1015/1000/600/',
-    thumbnail: 'https://picsum.photos/id/1015/250/150/',
+    original: 'https://raw.githubusercontent.com/zukowskiz/portfolio/gh-pages/pat2.jpg',
+    thumbnail: 'https://raw.githubusercontent.com/zukowskiz/portfolio/gh-pages/pat2.jpg',
+    
   },
   {
-    original: 'https://picsum.photos/id/1019/1000/600/',
-    thumbnail: 'https://picsum.photos/id/1019/250/150/',
+    original: 'https://raw.githubusercontent.com/zukowskiz/portfolio/gh-pages/pat3.jpg',
+    thumbnail: 'https://raw.githubusercontent.com/zukowskiz/portfolio/gh-pages/pat3.jpg',
+    
   },
+  {
+    original: 'https://raw.githubusercontent.com/zukowskiz/portfolio/gh-pages/pat4.jpg',
+    thumbnail: 'https://raw.githubusercontent.com/zukowskiz/portfolio/gh-pages/pat4.jpg',
+    
+  },
+  {
+    original: 'https://raw.githubusercontent.com/zukowskiz/portfolio/gh-pages/pat5.jpg',
+    thumbnail: 'https://raw.githubusercontent.com/zukowskiz/portfolio/gh-pages/pat5.jpg',
+    
+  },
+  {
+    original: 'https://raw.githubusercontent.com/zukowskiz/portfolio/gh-pages/pat6.jpg',
+    thumbnail: 'https://raw.githubusercontent.com/zukowskiz/portfolio/gh-pages/pat6.jpg',
+    
+  },
+  {
+    original: 'https://raw.githubusercontent.com/zukowskiz/portfolio/gh-pages/pat7.jpg',
+    thumbnail: 'https://raw.githubusercontent.com/zukowskiz/portfolio/gh-pages/pat7.jpg',
+    
+  },
+  {
+    original: 'https://raw.githubusercontent.com/zukowskiz/portfolio/gh-pages/pat8.jpg',
+    thumbnail: 'https://raw.githubusercontent.com/zukowskiz/portfolio/gh-pages/pat8.jpg',
+    
+  }
+ 
 ];
 
 class MyGallery extends React.Component {
