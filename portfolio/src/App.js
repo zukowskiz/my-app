@@ -5,43 +5,43 @@ import ImageGallery from 'react-image-gallery';
 
 const images = [
   {
-    original: 'https://raw.githubusercontent.com/zukowskiz/portfolio/gh-pages/static/media/pat1.jpg',
-    thumbnail: 'https://raw.githubusercontent.com/zukowskiz/portfolio/gh-pages/static/media/pat1.jpg',
+    original: 'https://raw.githubusercontent.com/zukowskiz/images/master/pat1.jpg',
+    thumbnail: 'https://raw.githubusercontent.com/zukowskiz/images/master/pat1.jpg',
     
   },
   {
-    original: 'https://raw.githubusercontent.com/zukowskiz/portfolio/gh-pages/static/media/pat2.jpg',
-    thumbnail: 'https://raw.githubusercontent.com/zukowskiz/portfolio/gh-pages/static/media/pat2.jpg',
+    original: 'https://raw.githubusercontent.com/zukowskiz/images/master/pat2.jpg',
+    thumbnail: 'https://raw.githubusercontent.com/zukowskiz/images/master/pat2.jpg',
     
   },
   {
-    original: 'https://raw.githubusercontent.com/zukowskiz/portfolio/gh-pages/static/media/pat3.jpg',
-    thumbnail: 'https://raw.githubusercontent.com/zukowskiz/portfolio/gh-pages/static/media/pat3.jpg',
+    original: 'https://raw.githubusercontent.com/zukowskiz/images/master/pat3.jpg',
+    thumbnail: 'https://raw.githubusercontent.com/zukowskiz/images/master/pat3.jpg',
     
   },
   {
-    original: 'https://raw.githubusercontent.com/zukowskiz/portfolio/gh-pages/static/media/pat4.jpg',
-    thumbnail: 'https://raw.githubusercontent.com/zukowskiz/portfolio/gh-pages/static/media/pat4.jpg',
+    original: 'https://raw.githubusercontent.com/zukowskiz/images/master/pat4.jpg',
+    thumbnail: 'https://raw.githubusercontent.com/zukowskiz/images/master/pat4.jpg',
     
   },
   {
-    original: 'https://raw.githubusercontent.com/zukowskiz/portfolio/gh-pages/static/media/pat5.jpg',
-    thumbnail: 'https://raw.githubusercontent.com/zukowskiz/portfolio/gh-pages/static/media/pat5.jpg',
+    original: 'https://raw.githubusercontent.com/zukowskiz/images/master/pat5.jpg',
+    thumbnail: 'https://raw.githubusercontent.com/zukowskiz/images/master/pat5.jpg',
     
   },
   {
-    original: 'https://raw.githubusercontent.com/zukowskiz/portfolio/gh-pages/static/media/pat6.jpg',
-    thumbnail: 'https://raw.githubusercontent.com/zukowskiz/portfolio/gh-pages/static/media/pat6.jpg',
+    original: 'https://raw.githubusercontent.com/zukowskiz/images/master/pat6.jpg',
+    thumbnail: 'https://raw.githubusercontent.com/zukowskiz/images/master/pat6.jpg',
     
   },
   {
-    original: 'https://raw.githubusercontent.com/zukowskiz/portfolio/gh-pages/static/media/pat7.jpg',
-    thumbnail: 'https://raw.githubusercontent.com/zukowskiz/portfolio/gh-pages/static/media/pat7.jpg',
+    original: 'https://raw.githubusercontent.com/zukowskiz/images/master/pat7.jpg',
+    thumbnail: 'https://raw.githubusercontent.com/zukowskiz/images/master/pat7.jpg',
     
   },
   {
-    original: 'https://raw.githubusercontent.com/zukowskiz/portfolio/gh-pages/static/media/pat8.jpg',
-    thumbnail: 'https://raw.githubusercontent.com/zukowskiz/portfolio/gh-pages/static/media/pat8.jpg',
+    original: 'https://raw.githubusercontent.com/zukowskiz/images/master/pat8.jpg',
+    thumbnail: 'https://raw.githubusercontent.com/zukowskiz/images/master/pat8.jpg',
     
   }
  
